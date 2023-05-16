@@ -1,0 +1,68 @@
+.i-home{
+    background: url(../public/svg/home.svg);
+    color: blue;
+}
+
+/* reactions */
+.i-suka{
+    background: url(../public/img/reaction/suka.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-haha{
+    background: url(../public/img/reaction/haha.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-super{
+    background: url(../public/img/reaction/super.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-peduli{
+    background: url(../public/img/reaction/peduli.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-wow{
+    background: url(../public/img/reaction/wow.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-sedih{
+    background: url(../public/img/reaction/sedih.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-marah{
+    background: url(../public/img/reaction/marah.png);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+
+/* post */
+.i-like{
+    background: url(../public/svg/thumbs-up-outline.svg);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-comment{
+    background: url(../public/svg/chatbox-outline.svg);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
+.i-share{
+    background: url(../public/svg/arrow-redo-outline.svg);
+    background-size: cover;
+    width: 20px;
+    height: 20px;
+}
